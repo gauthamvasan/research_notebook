@@ -20,6 +20,5 @@ jupyter book start
 ```
 
 ### Github Pages
-```
-jupyter book init --gh-pages
-```
+
+Follow instructions [here](https://next.jupyterbook.org/start/publish) to publish to the web.
